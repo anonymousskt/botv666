@@ -74,9 +74,9 @@ prefix = "!"
 name = "~ 𝑩𝑶𝑻 | 𝑺𝑨𝑫𝒁𝑰𝑵"
 rdaftar = "𝑶𝑩𝑹𝑰𝑮𝑨𝑫𝑶 𝑷𝑶𝑹 𝑺𝑬 𝑹𝑬𝑮𝑰𝑺𝑻𝑹𝑨𝑹 𝑷𝑨𝑹𝑨 𝑺𝑬𝑹 𝑼𝑴 𝑺𝑨𝑫𝑩𝑶𝒀 (☞ ಠ_ಠ)☞"
 rmenu = "𝑺𝑨𝑫𝒁𝑰𝑵 𝑫𝑶𝑴𝑰𝑵𝑨 𝑷𝑶𝑹𝑹💥🤬:("
-limitt = "9999999999"
+limitt = "999999999"
 ban = []
-userpremium = ["5514998360726@s.whatsapp.net"]["4799056517@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["5514998360726@s.whatsapp.net"]/ubah nomer kalian
 
 function kyun(seconds){
   function pad(s){

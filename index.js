@@ -74,9 +74,9 @@ prefix = "!"
 name = "~ 𝐒𝐀𝐃𝐙𝐈𝐍 | 𝐌𝐀𝐊𝐄𝐑"
 rdaftar = "𝐎𝐁𝐑𝐈𝐆𝐀𝐃𝐎 𝐏𝐎𝐑 𝐒𝐄 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐑 💖 𝐀𝐆𝐑 𝐒𝐄 𝐃𝐈𝐕𝐈𝐑𝐓𝐀 𝐊𝐊𝐉🥱"
 rmenu = "𝐒𝐀𝐃𝐙𝐈𝐍 𝐃𝐎𝐌𝐈𝐍𝐀 𝐌𝐀𝐈𝐒 1 𝐇𝐄𝐇𝐄:)"
-limitt = 10
+limitt = 9999999999
 ban = []
-userpremium = ["5514998360726@s.whatsapp.net"] ["5547999056517@s.whatsapp.net"] ["5514998873386@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["5514998360726@s.whatsapp.net"] //ubah nomer kalian
 
 function kyun(seconds){
   function pad(s){
